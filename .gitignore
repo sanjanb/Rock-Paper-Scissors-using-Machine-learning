@@ -1,0 +1,10 @@
+# Ignore Python cache and system files
+__pycache__/
+*.pyc
+
+# macOS files
+.DS_Store
+
+# Logs and database files
+*.log
+*.sqlite3
